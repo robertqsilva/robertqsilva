@@ -1,10 +1,10 @@
-# Perfil de Desenvolvedor Back-End Iniciante
+# Desenvolvedor de software back-end
 
 Olá, eu sou Robert Queiroz, um entusiasta da programação que está focado em se tornar um desenvolvedor back-end. Este é o meu espaço no GitHub, onde você pode encontrar alguns dos meus projetos e acompanhar minha jornada de aprendizado.
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente estudando e praticando desenvolvimento back-end pela Cubos Acaddemy.
+- 👨‍💻 Atualmente estudando e praticando desenvolvimento back-end pela Cubos Academy.
 - 📚 Aprendendo constantemente sobre a linguagem Node.js.
 - 🌱 Tecnologias estudadas - Javascript, Node.js, SQL, PostegreSql, Git.
 - 💼 Em busca de oportunidades para colaborar em projetos e ganhar experiência prática.
