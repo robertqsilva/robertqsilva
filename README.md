@@ -24,7 +24,7 @@ Olá, eu sou Robert Queiroz, um entusiasta da programação que está focado em 
 
 ## Contato
 
-- Você pode me encontrar no [LinkedIn](l[ink_para_seu_perfil_do_LinkedIn](https://www.linkedin.com/in/robert-queiroz-da-silva-421644231/)).
+- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/robert-queiroz-da-silva-421644231/).
 - Assim como atráves do [E-mail](mailto:silvarobert4321@gmail.com).
 
 ## Contribuições
