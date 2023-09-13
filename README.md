@@ -16,12 +16,6 @@ Olá, eu sou Robert Queiroz, um entusiasta da programação que está focado em 
 - **Frameworks**: Express.js (Node.js).
 - **Ferramentas de Versionamento**: Git, GitHub.
 
-## Projetos Destacados
-
-- [Projeto 1](link_para_projeto1): Breve descrição ou objetivo do projeto.
-- [Projeto 2](link_para_projeto2): Breve descrição ou objetivo do projeto.
-- [Projeto 3](link_para_projeto3): Breve descrição ou objetivo do projeto.
-
 ## Contato
 
 - Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/robert-queiroz-da-silva-421644231/).
@@ -30,9 +24,3 @@ Olá, eu sou Robert Queiroz, um entusiasta da programação que está focado em 
 ## Contribuições
 
 Estou sempre aberto a colaborações em projetos interessantes. Se você tiver alguma ideia ou projeto em que gostaria de trabalhar comigo, sinta-se à vontade para entrar em contato.
-
-## Aprendizado Contínuo
-
-Estou comprometido em aprimorar minhas habilidades e conhecimentos constantemente. Se você tiver alguma sugestão de recursos, cursos ou livros que podem me ajudar a crescer como desenvolvedor back-end, por favor, compartilhe!
-
-Obrigado por visitar meu perfil no GitHub! 😊
