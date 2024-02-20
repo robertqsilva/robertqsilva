@@ -4,9 +4,9 @@ Olá, eu sou Robert Queiroz, um entusiasta da programação que está focado em 
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente estudando e praticando desenvolvimento back-end pela Cubos Academy.
+- 👨‍💻 Atualmente estudando e praticando desenvolvimento back-end.
 - 📚 Aprendendo constantemente sobre a linguagem Node.js.
-- 🌱 Tecnologias estudadas - Javascript, Node.js, SQL, PostegreSql, Git.
+- 🌱 Tecnologias estudadas - Javascript, Node.js, TypeScript, Redis, Docker, SQL, PostegreSql, Git.
 - 💼 Em busca de oportunidades para colaborar em projetos e ganhar experiência prática.
 
 ## Habilidades
