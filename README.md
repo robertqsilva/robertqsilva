@@ -1,27 +1,11 @@
 # Desenvolvedor de software back-end
 
-Olá, eu sou Robert Queiroz, um entusiasta da programação que está focado em se tornar um desenvolvedor back-end. Este é o meu espaço no GitHub, onde você pode encontrar alguns dos meus projetos e acompanhar minha jornada de aprendizado.
+Olá pessoal! meu nome é Robert Queiroz, sou um desenvolvedor backend, com experiência desde 2023. No momento, estou concentrado em construir e participar ativamente de projetos que visam ampliar minha base de conhecimento
 
-## Sobre Mim
-
-- 👨‍💻 Atualmente estudando e praticando desenvolvimento back-end.
-- 📚 Aprendendo constantemente sobre a linguagem Node.js.
-- 🌱 Tecnologias estudadas - Javascript, Node.js, TypeScript, Redis, Docker, SQL, PostegreSql, Git.
-- 💼 Em busca de oportunidades para colaborar em projetos e ganhar experiência prática.
+### Contato
+  [![likedin](https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/robert-queiroz-da-silva-421644231/)
 
 ## My Skils
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,postgres,redis,docker,git,linux,express)](https://skillicons.dev)
 
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=robertqsilva&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?robertqsilva=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=robertqsilva&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertqsilva&show_icons=true&theme=radical)
